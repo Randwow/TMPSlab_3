@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4EE1B609-D7F1-445C-A76D-CE127586D069}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StatePattern/GasWaterState.cs">
+    <Files>
+      <File FileName="StatePattern/Program.cs" Line="13" Column="37" />
+      <File FileName="StatePattern/Water.cs" Line="7" Column="56" />
+      <File FileName="StatePattern/IWaterState.cs" Line="6" Column="42" />
+      <File FileName="StatePattern/SolidWaterState.cs" Line="4" Column="5" />
+      <File FileName="StatePattern/LiquidWaterState.cs" Line="6" Column="32" />
+      <File FileName="StatePattern/GasWaterState.cs" Line="6" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StatePattern" expanded="True">
+            <Node name="StatePattern" expanded="True">
+              <Node name="GasWaterState.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StatePattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

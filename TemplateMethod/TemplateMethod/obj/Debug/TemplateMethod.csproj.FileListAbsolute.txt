@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Projects/TemplateMethod/TemplateMethod/bin/Debug/TemplateMethod.exe
+/Users/nikitamakeev/Projects/TemplateMethod/TemplateMethod/bin/Debug/TemplateMethod.pdb
+/Users/nikitamakeev/Projects/TemplateMethod/TemplateMethod/obj/Debug/TemplateMethod.csprojAssemblyReference.cache
+/Users/nikitamakeev/Projects/TemplateMethod/TemplateMethod/obj/Debug/TemplateMethod.exe
+/Users/nikitamakeev/Projects/TemplateMethod/TemplateMethod/obj/Debug/TemplateMethod.pdb

@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Desktop/TMPSlab_3/Memento/Memento/bin/Debug/Memento.exe
+/Users/nikitamakeev/Desktop/TMPSlab_3/Memento/Memento/bin/Debug/Memento.pdb
+/Users/nikitamakeev/Desktop/TMPSlab_3/Memento/Memento/obj/Debug/Memento.csprojAssemblyReference.cache
+/Users/nikitamakeev/Desktop/TMPSlab_3/Memento/Memento/obj/Debug/Memento.exe
+/Users/nikitamakeev/Desktop/TMPSlab_3/Memento/Memento/obj/Debug/Memento.pdb

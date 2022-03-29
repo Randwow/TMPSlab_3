@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Desktop/TMPSlab_3/Strategy/Strategy/bin/Debug/Strategy.exe
+/Users/nikitamakeev/Desktop/TMPSlab_3/Strategy/Strategy/bin/Debug/Strategy.pdb
+/Users/nikitamakeev/Desktop/TMPSlab_3/Strategy/Strategy/obj/Debug/Strategy.csprojAssemblyReference.cache
+/Users/nikitamakeev/Desktop/TMPSlab_3/Strategy/Strategy/obj/Debug/Strategy.exe
+/Users/nikitamakeev/Desktop/TMPSlab_3/Strategy/Strategy/obj/Debug/Strategy.pdb

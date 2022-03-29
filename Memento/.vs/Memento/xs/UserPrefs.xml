@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F9915902-61E2-4878-B970-34EEADAE7EBE}|Default">
+  <MonoDevelop.Ide.ItemProperties.Memento PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Memento/Program.cs">
+    <Files>
+      <File FileName="Memento/Program.cs" Line="16" Column="13" />
+      <File FileName="Memento/SalesProspect.cs" Line="49" Column="1" />
+      <File FileName="Memento/Memento.cs" Line="15" Column="10" />
+      <File FileName="Memento/ProspectMemory.cs" Line="9" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Memento" expanded="True">
+            <Node name="Memento" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

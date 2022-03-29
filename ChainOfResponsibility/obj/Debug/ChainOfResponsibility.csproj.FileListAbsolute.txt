@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Projects/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/ChainOfResponsibility.csprojAssemblyReference.cache
+/Users/nikitamakeev/Projects/ChainOfResponsibility/ChainOfResponsibility/bin/Debug/ChainOfResponsibility.exe
+/Users/nikitamakeev/Projects/ChainOfResponsibility/ChainOfResponsibility/bin/Debug/ChainOfResponsibility.pdb
+/Users/nikitamakeev/Projects/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/ChainOfResponsibility.exe
+/Users/nikitamakeev/Projects/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/ChainOfResponsibility.pdb

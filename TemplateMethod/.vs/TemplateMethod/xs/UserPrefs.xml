@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D4826B7C-B800-49E3-8180-148A874B5070}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TemplateMethod/Education.cs">
+    <Files>
+      <File FileName="TemplateMethod/Program.cs" Line="13" Column="32" />
+      <File FileName="TemplateMethod/Education\.cs" Line="6" Column="33" />
+      <File FileName="TemplateMethod/School.cs" Line="21" Column="2" />
+      <File FileName="TemplateMethod/UniversityEmptyClass.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TemplateMethod" expanded="True">
+            <Node name="TemplateMethod" expanded="True">
+              <Node name="Education.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.TemplateMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
