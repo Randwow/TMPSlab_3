@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{4EE1B609-D7F1-445C-A76D-CE127586D069}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="StatePattern/GasWaterState.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StatePattern/Water.cs">
     <Files>
       <File FileName="StatePattern/Program.cs" Line="13" Column="37" />
-      <File FileName="StatePattern/Water.cs" Line="7" Column="56" />
-      <File FileName="StatePattern/IWaterState.cs" Line="6" Column="42" />
-      <File FileName="StatePattern/SolidWaterState.cs" Line="4" Column="5" />
-      <File FileName="StatePattern/LiquidWaterState.cs" Line="6" Column="32" />
+      <File FileName="StatePattern/Water.cs" Line="9" Column="1" />
+      <File FileName="StatePattern/IWaterState.cs" Line="7" Column="18" />
+      <File FileName="StatePattern/SolidWaterState.cs" Line="13" Column="10" />
+      <File FileName="StatePattern/LiquidWaterState.cs" Line="15" Column="51" />
       <File FileName="StatePattern/GasWaterState.cs" Line="6" Column="32" />
     </Files>
     <Pads>
@@ -13,7 +13,7 @@
         <State name="__root__">
           <Node name="StatePattern" expanded="True">
             <Node name="StatePattern" expanded="True">
-              <Node name="GasWaterState.cs" selected="True" />
+              <Node name="Water.cs" selected="True" />
             </Node>
           </Node>
         </State>

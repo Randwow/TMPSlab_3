@@ -2,10 +2,10 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Strategy/Car.cs">
     <Files>
       <File FileName="Strategy/Program.cs" Line="12" Column="25" />
-      <File FileName="Strategy/IMovable.cs" Line="6" Column="40" />
-      <File FileName="Strategy/PetrolMove.cs" Line="6" Column="32" />
-      <File FileName="Strategy/ElectricMove.cs" Line="6" Column="32" />
-      <File FileName="Strategy/Car.cs" Line="14" Column="27" />
+      <File FileName="Strategy/PetrolMove.cs" Line="17" Column="1" />
+      <File FileName="Strategy/ElectricMove.cs" Line="19" Column="1" />
+      <File FileName="Strategy/Car.cs" Line="17" Column="33" />
+      <File FileName="Strategy/IStrategy.cs" Line="11" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

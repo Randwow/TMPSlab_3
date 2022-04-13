@@ -3,7 +3,7 @@ namespace Memento
 {
     public class ProspectMemory
     { 
-        //Хранитель обьекта memento
+        //Хранитель обьекта memento (Caretaker)
         Memento memento;
         public Memento Memento
         {
